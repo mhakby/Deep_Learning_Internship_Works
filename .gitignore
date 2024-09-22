@@ -1,0 +1,19 @@
+# Virtual environment
+.env
+.venv/
+env/
+venv/
+
+# PyCharm files
+.idea/
+__pycache__/
+
+# pytest
+.cache/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
