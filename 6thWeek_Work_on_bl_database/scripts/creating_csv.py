@@ -3,7 +3,7 @@ import csv
 
 base_directory = "../data/bl"
 
-output_csv = "urls_and_categories.csv"
+output_csv = "../data/urls_and_categories_news2.csv"
 
 headers = ["URL", "Category"]
 
