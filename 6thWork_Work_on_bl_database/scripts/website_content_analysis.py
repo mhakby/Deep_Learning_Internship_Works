@@ -1,3 +1,4 @@
+# Third Process
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -29,8 +30,8 @@ logger.addHandler(handler)
 end_time = datetime.now()
 
 data_directory = '../data'
-input_csv_file = os.path.join(data_directory, "url_meta_info_shp.csv")
-output_csv_file = os.path.join(data_directory, "website_content_analysis_shp.csv")
+input_csv_file = os.path.join(data_directory, "url_meta_info_gms_sn.csv")
+output_csv_file = os.path.join(data_directory, "website_content_analysis_gms_sn.csv")
 
 # Adding New Features
 new_headers = ['Word_Count', 'Link_Count', 'Image_Count', 'Video_Count', 'Has_Ads', 'Domain_Age', 'Payment_Present',
@@ -196,7 +197,7 @@ with open(input_csv_file, mode='r', newline='', encoding='ISO-8859-1') as infile
 
     writer.writerow(headers)
 
-    with concurrent.futures.ThreadPoolExecutor(max_workers=100) as executor:
+    with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
         results = executor.map(process_url, reader)
 
         for result in results:

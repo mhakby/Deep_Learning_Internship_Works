@@ -1,3 +1,4 @@
+# Second Process
 import requests
 import csv
 from bs4 import BeautifulSoup
@@ -27,11 +28,13 @@ formatter.converter = time.gmtime
 handler.setFormatter(formatter)
 logger.addHandler(handler)
 
-input_csv_file = '../data/url_and_categories_shp.csv'
-output_csv_file = '../data/url_meta_info_shp.csv'
+input_csv_file = '../data/url_and_categories_sn.csv'
+output_csv_file = '../data/url_meta_info_sn.csv'
 
 headers = ['URL', 'Category', 'Language', 'Title', 'Meta_Description']
 
+# Define starting row
+start_row = 1
 
 def get_website_metadata(url):
     try:
@@ -84,6 +87,10 @@ with open(input_csv_file, mode='r', newline='', encoding='utf-8') as infile, \
     reader = csv.DictReader(infile)
     writer = csv.writer(outfile)
     writer.writerow(headers)
+
+    # Starting row where we want
+    for _ in range(start_row):
+        next(reader)
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=50) as executor:
         results = executor.map(process_url, reader)
