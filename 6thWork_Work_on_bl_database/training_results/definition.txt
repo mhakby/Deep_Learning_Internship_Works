@@ -1,0 +1,3 @@
+Precision (Kesinlik)  : Bir modelin, pozitif olarak sýnýflandýrdýðý verilerin gerçekten pozitif olma oranýný ifade eder.
+Recall (Duyarlýlýk ya da Eriþim) : Modelin, gerçek pozitif örnekleri doðru bir þekilde bulma oranýný ifade eder.
+F1 Score : Precision ve Recall'un harmonik ortalamasýdýr. Ýki metriðin de dengede olduðu bir ölçüm saðlar.

@@ -1,0 +1,105 @@
+{
+  "eng": {
+    "news_and_media": ["news", "media", "journalism", "current events", "breaking news", "reporting", "broadcast", "press", "coverage", "headlines", "articles", "newsroom"],
+    "shopping": ["shopping", "e-commerce", "online store", "buying", "purchase", "retail", "sale", "discount", "shopping cart", "checkout", "product", "online shopping"],
+    "games": ["games", "gaming", "video games", "multiplayer", "console", "PC games", "mobile games", "esports", "arcade", "virtual reality", "gameplay", "download"],
+    "social_networking": ["social network", "friends", "chat", "messages", "posts", "sharing", "profile", "likes", "followers", "community", "social media"]
+  },
+  "tr": {
+    "news_and_media": ["haber", "medya", "gazetecilik", "güncel olaylar", "son dakika", "haberler", "yayýn", "basýn", "haber merkezi", "makale", "haber baþlýðý"],
+    "shopping": ["alýþveriþ", "e-ticaret", "online maðaza", "satýn alma", "ürün", "indirim", "alýþveriþ sepeti", "ödeme", "kampanya", "fýrsat", "alýþveriþ sitesi"],
+    "games": ["oyunlar", "video oyunlarý", "çok oyunculu", "konsol", "PC oyunlarý", "mobil oyunlar", "espor", "arcade", "sanat gerçekliði", "oyun indirme", "oyun"],
+    "social_networking": ["sosyal að", "arkadaþ", "sohbet", "mesaj", "paylaþým", "profil", "beðeni", "takipçi", "topluluk", "sosyal medya"]
+  },
+  "de": {
+    "news_and_media": ["nachrichten", "medien", "journalismus", "aktuelle ereignisse", "breaking news", "berichterstattung", "sendung", "presse", "schlagzeilen", "artikel", "nachrichtenzentrale"],
+    "shopping": ["einkaufen", "e-commerce", "online-shop", "kaufen", "kauf", "verkauf", "rabatt", "einkaufswagen", "bestellen", "produkt", "online einkaufen"],
+    "games": ["spiele", "gaming", "videospiele", "mehrspieler", "konsole", "PC-spiele", "mobile spiele", "esport", "arcade", "virtuelle realität", "gameplay", "download"],
+    "social_networking": ["soziales netzwerk", "freunde", "chat", "nachrichten", "posts", "teilen", "profil", "likes", "followers", "gemeinschaft", "soziale medien"]
+  },
+  "fr": {
+    "news_and_media": ["nouvelles", "médias", "journalisme", "événements actuels", "infos de dernière minute", "reportage", "presse", "couvreur", "titres", "articles", "rédaction"],
+    "shopping": ["achats", "commerce électronique", "magasin en ligne", "achat", "produit", "vente", "panier d'achat", "réduction", "promotions", "paiement", "commande"],
+    "games": ["jeux", "jeux vidéo", "multijoueur", "console", "jeux PC", "jeux mobiles", "esports", "arcade", "réalité virtuelle", "gameplay", "téléchargement"],
+    "social_networking": ["réseau social", "amis", "chat", "messages", "publications", "partage", "profil", "j'aime", "abonnés", "communauté", "médias sociaux"]
+  },
+  "ro": {
+    "news_and_media": ["?tiri", "media", "jurnalism", "evenimente curente", "?tiri de ultim? or?", "raportare", "presa", "articole", "titluri", "acoperire media", "?tiri locale"],
+    "shopping": ["cump?r?turi", "comer? electronic", "magazin online", "achizi?ionare", "produs", "reducere", "co? de cump?r?turi", "checkout", "comand?", "oferte", "promo?ii"],
+    "games": ["jocuri", "gaming", "jocuri video", "multiplayer", "consol?", "jocuri PC", "jocuri mobile", "esports", "arcad?", "realitate virtual?", "gameplay", "desc?rcare"],
+    "social_networking": ["re?ea social?", "prieteni", "chat", "mesaje", "post?ri", "partajare", "profil", "aprecieri", "urm?ritori", "comunitate", "re?ele sociale"]
+  },
+  "it": {
+    "news_and_media": ["notizie", "media", "giornalismo", "eventi attuali", "ultime notizie", "cronaca", "stampa", "titoli", "articoli", "copertura mediatica", "sala stampa"],
+    "shopping": ["shopping", "e-commerce", "negozio online", "acquisto", "prodotto", "sconto", "carrello", "ordine", "pagamento", "vendita online", "commercio elettronico"],
+    "games": ["giochi", "videogiochi", "multigiocatore", "console", "giochi per PC", "giochi mobili", "esport", "arcade", "realtà virtuale", "gameplay", "download"],
+    "social_networking": ["social network", "amici", "chat", "messaggi", "post", "condivisione", "profilo", "mi piace", "follower", "comunità", "media sociali"]
+  },
+  "vi": {
+    "news_and_media": ["tin t?c", "truy?n thông", "báo chí", "s? ki?n hi?n t?i", "tin nóng", "báo cáo", "truy?n hình", "báo chí", "tiêu ??", "bài báo", "trung tâm tin t?c"],
+    "shopping": ["mua s?m", "th??ng m?i ?i?n t?", "c?a hàng tr?c tuy?n", "mua hàng", "s?n ph?m", "gi?m giá", "gi? hàng", "??t hàng", "thanh toán", "c?a hàng", "khuy?n mãi"],
+    "games": ["trò ch?i", "ch?i game", "trò ch?i ?i?n t?", "?a ng??i ch?i", "máy ch?i game", "game PC", "game mobile", "th? thao ?i?n t?", "game arcade", "th?c t? ?o", "gameplay", "t?i xu?ng"],
+    "social_networking": ["m?ng xã h?i", "b?n bè", "trò chuy?n", "tin nh?n", "bài ??ng", "chia s?", "h? s?", "thích", "ng??i theo dõi", "c?ng ??ng", "truy?n thông xã h?i"]
+  },
+  "nl": {
+    "news_and_media": ["nieuws", "media", "journalistiek", "actuele gebeurtenissen", "breaking news", "reportage", "pers", "krantenkoppen", "artikelen", "nieuwsdekking", "nieuwscentrum"],
+    "shopping": ["winkelen", "e-commerce", "online winkel", "kopen", "product", "korting", "winkelwagen", "betaling", "bestelling", "aanbiedingen", "webshop"],
+    "games": ["spellen", "gamen", "videospellen", "meerspeler", "console", "PC games", "mobiele games", "esports", "arcade", "virtuele realiteit", "gameplay", "download"],
+    "social_networking": ["sociaal netwerk", "vrienden", "chatten", "berichten", "posts", "delen", "profiel", "vind-ik-leuks", "volgers", "gemeenschap", "sociale media"]
+  },
+  "id": {
+    "news_and_media": ["berita", "media", "jurnalisme", "peristiwa terkini", "berita terbaru", "liputan", "pers", "liputan media", "artikel", "pusat berita", "judul"],
+    "shopping": ["belanja", "e-commerce", "toko online", "pembelian", "produk", "diskon", "keranjang belanja", "pembayaran", "penawaran", "promosi", "belanja online"],
+    "games": ["permainan", "gaming", "video games", "multiplayer", "konsol", "game PC", "game mobile", "esports", "arcade", "realitas virtual", "gameplay", "unduh"],
+    "social_networking": ["jejaring sosial", "teman", "chat", "pesan", "posting", "berbagi", "profil", "suka", "pengikut", "komunitas", "media sosial"]
+  },
+  "pl": {
+    "news_and_media": ["wiadomo?ci", "media", "dziennikarstwo", "bie??ce wydarzenia", "naj?wie?sze wiadomo?ci", "reporta?", "prasa", "nag?ówki", "artyku?y", "centrum prasowe", "media"],
+    "shopping": ["zakupy", "e-commerce", "sklep internetowy", "kupowanie", "produkt", "rabat", "koszyk zakupowy", "p?atno??", "zamówienie", "sprzeda?", "promocje"],
+    "games": ["gry", "gaming", "gry komputerowe", "wielu graczy", "konsola", "gry na PC", "gry mobilne", "esport", "arcade", "wirtualna rzeczywisto??", "gameplay", "pobieranie"],
+    "social_networking": ["sie? spo?eczna", "przyjaciele", "czat", "wiadomo?ci", "posty", "udost?pnianie", "profil", "polubienia", "obserwuj?cy", "spo?eczno??", "media spo?eczno?ciowe"]
+  },
+  "th": {
+    "news_and_media": ["????", "????", "????????????", "?????????????????", "????????", "??????", "???????????", "?????????", "??????????", "??????", "????????"],
+    "shopping": ["????????", "???????????", "??????????????", "???????", "??????", "??????", "????????????", "????????", "??????????", "?????????", "??????"],
+    "games": ["???", "???????", "?????????", "???????????", "??????", "??? PC", "?????????", "????????", "???????", "??????????????????", "??????????", "?????????"],
+    "social_networking": ["??????????????", "??????", "???", "???????", "?????", "????", "???????", "?????", "?????????", "?????", "????????????????"]
+  },
+  "cs": {
+    "news_and_media": ["zprávy", "média", "?urnalistika", "aktuální události", "nejnov?jší zprávy", "reportá?", "tisk", "tituly", "?lánky", "zpravodajské centrum", "pokr?vání médií"],
+    "shopping": ["nákupy", "e-commerce", "online obchod", "nákup", "produkt", "sleva", "košík", "platba", "objednávka", "prodej"],
+    "games": ["hry", "gaming", "videohry", "více hrá??", "konzole", "PC hry", "mobilní hry", "esport", "arcade", "virtuální realita", "gameplay", "stahování"],
+    "social_networking": ["sociální sí?", "p?átelé", "chat", "zprávy", "p?ísp?vky", "sdílení", "profil", "lajky", "sledovatelé", "komunita", "sociální média"]
+  },
+  "pt": {
+    "news_and_media": ["notícias", "mídia", "jornalismo", "eventos atuais", "notícias de última hora", "reportagem", "transmissão", "imprensa", "manchetes", "artigos", "sala de imprensa"],
+    "shopping": ["compras", "e-commerce", "loja online", "comprar", "produto", "desconto", "carrinho de compras", "pagamento", "pedido", "promoção", "venda"],
+    "games": ["jogos", "gaming", "videogames", "multijogador", "console", "jogos de PC", "jogos móveis", "esports", "arcade", "realidade virtual", "jogabilidade", "download"],
+    "social_networking": ["rede social", "amigos", "bate-papo", "mensagens", "postagens", "compartilhar", "perfil", "curtidas", "seguidores", "comunidade", "mídia social"]
+  },
+  "hu": {
+    "news_and_media": ["hírek", "média", "újságírás", "aktuális események", "friss hírek", "tudósítás", "sajtó", "címek", "cikkek", "sajtószoba", "hírközpont"],
+    "shopping": ["vásárlás", "e-kereskedelem", "online bolt", "vásárlás", "termék", "kedvezmény", "bevásárlókocsi", "fizetés", "megrendelés", "eladás", "akciók"],
+    "games": ["játékok", "gaming", "videójátékok", "többjátékos", "konzol", "PC játékok", "mobil játékok", "esport", "árkád", "virtuális valóság", "játékmenet", "letöltés"],
+    "social_networking": ["közösségi hálózat", "barátok", "csevegés", "üzenetek", "bejegyzések", "megosztás", "profil", "kedvelés", "követ?k", "közösség", "közösségi média"]
+  },
+  "sv": {
+    "news_and_media": ["nyheter", "media", "journalistik", "aktuella händelser", "breaking news", "rapportering", "sändning", "press", "rubriker", "artiklar", "nyhetsrum"],
+    "shopping": ["shopping", "e-handel", "webbutik", "köp", "produkt", "rabatt", "kundvagn", "betalning", "beställning", "rea", "erbjudanden"],
+    "games": ["spel", "gaming", "videospel", "flera spelare", "konsol", "PC-spel", "mobila spel", "esport", "arkad", "virtuell verklighet", "spelupplägg", "nedladdning"],
+    "social_networking": ["socialt nätverk", "vänner", "chatt", "meddelanden", "inlägg", "dela", "profil", "gilla", "följare", "gemenskap", "sociala medier"]
+  },
+  "fi": {
+    "news_and_media": ["uutiset", "media", "journalismi", "ajankohtaiset tapahtumat", "murtouutiset", "raportointi", "lähetys", "lehdistö", "otsikot", "artikkelit", "uutishuone"],
+    "shopping": ["ostokset", "verkkokauppa", "verkkokauppa", "osto", "tuote", "alennus", "ostoskori", "maksu", "tilaus", "kampanja", "myynti"],
+    "games": ["pelit", "gaming", "videopelit", "moninpeli", "konsoli", "PC-pelit", "mobiilipelit", "esports", "arcade", "virtuaalitodellisuus", "pelattavuus", "lataus"],
+    "social_networking": ["sosiaalinen verkosto", "ystävät", "chat", "viestit", "julkaisut", "jakaminen", "profiili", "tykkäykset", "seuraajat", "yhteisö", "sosiaalinen media"]
+  },
+  "da": {
+    "news_and_media": ["nyheder", "medier", "journalistik", "aktuelle begivenheder", "breaking news", "rapportering", "udsendelse", "presse", "overskrifter", "artikler", "nyhedsrummet"],
+    "shopping": ["shopping", "e-handel", "online butik", "køb", "produkt", "rabat", "indkøbskurv", "betaling", "ordre", "tilbud", "udsalg"],
+    "games": ["spil", "gaming", "videospil", "multiplayer", "konsol", "PC-spil", "mobilspil", "esport", "arkade", "virtual reality", "spilforløb", "download"],
+    "social_networking": ["socialt netværk", "venner", "chat", "beskeder", "indlæg", "dele", "profil", "likes", "følgere", "fællesskab", "sociale medier"]
+  }
+
+}
